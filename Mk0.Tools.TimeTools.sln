@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mk0.Tools.TimeTools", "Mk0.Tools.TimeTools\Mk0.Tools.TimeTools.csproj", "{2936250A-9426-4FD3-9F0D-A7A6C0484D43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2936250A-9426-4FD3-9F0D-A7A6C0484D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2936250A-9426-4FD3-9F0D-A7A6C0484D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2936250A-9426-4FD3-9F0D-A7A6C0484D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2936250A-9426-4FD3-9F0D-A7A6C0484D43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E91673C-AC57-4D9B-A2DD-EE0FAA5FC043}
+	EndGlobalSection
+EndGlobal
