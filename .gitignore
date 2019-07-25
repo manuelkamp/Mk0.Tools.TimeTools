@@ -3,3 +3,5 @@
 ################################################################################
 
 /Mk0.Tools.TimeTools/bin/Debug
+/Mk0.Tools.TimeTools/obj/Debug
+*.json
